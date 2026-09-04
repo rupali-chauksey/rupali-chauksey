@@ -136,10 +136,6 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 
 ---
 
-> **GitHub activity:** This profile highlights projects I build and ship across Salesforce, Agentic AI, automation and applied AI engineering.
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
