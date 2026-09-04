@@ -151,6 +151,16 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Green_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" /> <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/ngrok-1E1E2E?style=for-the-badge&logo=ngrok&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 
+---
+
+## 🎯 Currently Deepening
+
+- 🤖 Advanced **multi-agent orchestration** and autonomous workflow design
+- ☁️ **Agentforce + Salesforce** AI patterns
+- 📚 Scalable **RAG and knowledge retrieval** systems
+- 🔗 LLM ↔ Salesforce integrations using APIs, Apex and automation
+- 🎥 Multimodal AI workflows with stronger validation and safety layers
+
 
 ## 🤝 Open to Collaborate On
 
@@ -159,9 +169,3 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 - RAG-based knowledge assistants
 - AI-powered CRM workflows and integrations
 
----
-
-<p align="center">
-  <strong>⚡ Building where CRM meets autonomous intelligence.</strong><br/>
-  <sub>Let's connect and build something intelligent.</sub>
-</p>
