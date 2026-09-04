@@ -82,11 +82,11 @@ class RupaliChouksey:
 
 | 🤖 Agentic AI & Autonomous Workflows | ☁️ Salesforce & Agentforce |
 |---|---|
-| Autonomous agents, tool calling, multi-step workflows, autonomous browsing and task execution | Agentforce solutions for hotel workflows, CRM automation and AI-assisted customer operations |
-| 📚 LLM, RAG & Multimodal AI | 🔗 AI Integrations & Automation |
-| LLM-powered RAG pipelines, **PDF + web fallback**, multimodal AI using **voice, image and video**, grounded and confidence-aware responses | APIs, webhooks, tool integration and workflow orchestration across AI and business systems |
-| ⚙️ AI Application Engineering | 🧠 Intelligent Knowledge Systems |
-| Production-minded AI applications, backend workflows, validation and deployment | Document retrieval, knowledge assistants and AI-powered information workflows |
+| 🧭 Autonomous agents, tool calling, multi-step workflows, autonomous browsing and task execution | ☁️ Agentforce solutions for hotel booking, check-in, check-out, food ordering and customer assistance |
+| 🧠 LLM, RAG & Multimodal AI | 🔗 AI Integrations & Automation |
+| LLM-powered RAG pipelines with **PDF + web fallback**, multimodal AI using **voice, image and video**, grounded and confidence-aware responses | APIs, webhooks, tool integration and workflow orchestration across AI and business systems |
+| ⚙️ AI Automation & Application Engineering | 🧩 Knowledge & CRM Applications |
+| Intelligent workflow automation, backend orchestration, validation and production-minded AI applications | Knowledge assistants, document retrieval and AI-powered business workflows |
 
 ## ⭐ Featured Project
 
