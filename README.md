@@ -126,9 +126,6 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 
 ---
 
-## 📊 GitHub Analytics
-
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=rupali-chauksey&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
@@ -138,27 +135,6 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rupali-chauksey&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupali-chauksey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupali-chauksey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupali-chauksey&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupali-chauksey&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/repos/rupali-chauksey?style=for-the-badge&label=Public%20Repos&logo=github" alt="Public Repositories"/>
-  <img src="https://img.shields.io/github/stars/rupali-chauksey?style=for-the-badge&label=Total%20Stars&logo=github" alt="Total Stars"/>
-  <img src="https://img.shields.io/github/followers/rupali-chauksey?style=for-the-badge&label=Followers&logo=github" alt="GitHub Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=rupali-chauksey&style=for-the-badge&label=Profile%20Views&color=1B96FF" alt="Profile Views"/>
-</p>
 
 > **GitHub activity:** This profile highlights projects I build and ship across Salesforce, Agentic AI, automation and applied AI engineering.
 
