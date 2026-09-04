@@ -123,7 +123,7 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 <img src="https://img.shields.io/badge/Agentic_AI-8E75B2?style=for-the-badge" /><img src="https://img.shields.io/badge/LLM_Orchestration-412991?style=for-the-badge&logo=openai&logoColor=white" /><img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge" /><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ### ☁️ Salesforce Ecosystem
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Apex-1434CB?style=for-the-badge"/> <img src="https://img.shields.io/badge/LWC-0176D3?style=for-the-badge"/> <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Integrations-2E844A?style=for-the-badge"/><img src="https://img.shields.io/badge/Agentforce-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/><img src="https://img.shields.io/badge/Agentforce-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Apex-1434CB?style=for-the-badge"/> <img src="https://img.shields.io/badge/LWC-0176D3?style=for-the-badge"/> <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Integrations-2E844A?style=for-the-badge"/>
 
 ### 🤖 AI Models, Voice & Automation
 
