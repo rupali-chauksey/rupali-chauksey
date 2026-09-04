@@ -136,24 +136,6 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <strong>🎬 Animated Contribution Snake</strong><br/>
-  <img src="https://raw.githubusercontent.com/rupali-chauksey/rupali-chauksey/output/ocean.gif" alt="Animated GitHub Contribution Snake" width="100%"/>
-</p>
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rupali-chauksey/rupali-chauksey/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rupali-chauksey/rupali-chauksey/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/rupali-chauksey/rupali-chauksey/output/github-snake.svg" alt="GitHub Contribution Snake"/>
-  </picture>
-</p>
-
----
-
 ## 🎯 Currently Deepening
 
 - 🤖 Advanced **multi-agent orchestration** and autonomous workflow design
