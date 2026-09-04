@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rupali Chauksey</h1>
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=1B96FF&center=true&vcenter=true&width=950&lines=Hi+%F0%9F%91%8B%2C+I%27m+Rupali+Chouksey" alt="Hi, I'm Rupali Chouksey" />
+  </a>
+</h2>
 
 <h3 align="center">Salesforce Developer • Agentic AI Engineer • AI Automation Builder</h3>
 
@@ -34,11 +38,8 @@
   <img src="https://img.shields.io/badge/Apex-1434CB?style=for-the-badge"/>
 </p>
 
----
+🧠 About Me
 
-## 🧠 About Me
-
-```python
 class RupaliChouksey:
     role = "Salesforce Developer & Agentic AI Engineer"
     experience = "3+ Years in Salesforce Ecosystem"
@@ -49,13 +50,16 @@ class RupaliChouksey:
 
     currently_building = "AI agents + intelligent business workflows"
 
-```
 
-- 🤖 Building **Agentic AI systems** that can reason, plan, use tools and execute multi-step workflows
-- ☁️ Working across **Salesforce, Apex, LWC, integrations and Agentforce**
-- 📚 Exploring **RAG pipelines, LLM orchestration and multimodal AI**
-- ⚙️ Connecting AI with real business workflows instead of building isolated demos
-- 🚀 Focused on practical, production-minded AI engineering and automation
+🤖 Building Agentic AI systems that can reason, plan, use tools and execute multi-step workflows
+
+☁️ Working across Salesforce, Apex, LWC, integrations and Agentforce
+
+📚 Exploring RAG pipelines, LLM orchestration and multimodal AI
+
+⚙️ Connecting AI with real business workflows instead of building isolated demos
+
+🚀 Focused on practical, production-minded AI engineering and automation
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-1B96FF?style=flat-square"/>
@@ -64,19 +68,33 @@ class RupaliChouksey:
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2E844A?style=flat-square"/>
 </p>
 
----
+🚀 What I Build
 
-## 🚀 What I Build
+🤖 Agentic AI & Autonomous Workflows
 
-| 🤖 Agentic AI & Autonomous Workflows | ☁️ Salesforce & Agentforce |
-|---|---|
-| 🧭 Autonomous agents, tool calling, multi-step workflows, autonomous browsing and task execution | ☁️ Agentforce solutions for hotel booking, check-in, check-out, food ordering and customer assistance |
-| 🧠 LLM, RAG & Multimodal AI | 🔗 AI Integrations & Automation |
-| 📄 LLM-powered RAG pipelines with **PDF + web fallback**, multimodal AI using **voice, image and video**, grounded and confidence-aware responses | 🔌 APIs, webhooks, tool integration and workflow orchestration across AI and business systems |
-| ⚙️ AI Automation & Application Engineering | 🧩 Knowledge & CRM Applications |
-| 🔄 Intelligent workflow automation, backend orchestration, validation and production-minded AI applications | 📚 Knowledge assistants, document retrieval and AI-powered business workflows |
+☁️ Salesforce & Agentforce
 
-## ⭐ Featured Project
+🧭 Autonomous agents, tool calling, multi-step workflows, autonomous browsing and task execution
+
+☁️ Agentforce solutions for hotel booking, check-in, check-out, food ordering and customer assistance
+
+🧠 LLM, RAG & Multimodal AI
+
+🔗 AI Integrations & Automation
+
+📄 LLM-powered RAG pipelines with PDF + web fallback, multimodal AI using voice, image and video, grounded and confidence-aware responses
+
+🔌 APIs, webhooks, tool integration and workflow orchestration across AI and business systems
+
+⚙️ AI Automation & Application Engineering
+
+🧩 Knowledge & CRM Applications
+
+🔄 Intelligent workflow automation, backend orchestration, validation and production-minded AI applications
+
+📚 Knowledge assistants, document retrieval and AI-powered business workflows
+
+⭐ Featured Project
 
 <table>
   <tr>
@@ -104,68 +122,82 @@ class RupaliChouksey:
   </tr>
 </table>
 
-### 🔗 More Projects Coming Soon
+🔗 More Projects Coming Soon
+
 More Agentic AI, Salesforce and automation projects will be added here as they are published.
 
----
+🧩 Core Tech Stack
 
-## 🧩 Core Tech Stack
+🤖 Agentic AI, LLMs & Automation
 
-### 🤖 Agentic AI, LLMs & Automation
 <img src="https://img.shields.io/badge/Agentic_AI-8E75B2?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLM_Orchestration-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Agentforce-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### ☁️ Salesforce Ecosystem
+☁️ Salesforce Ecosystem
+
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Apex-1434CB?style=for-the-badge"/> <img src="https://img.shields.io/badge/LWC-0176D3?style=for-the-badge"/> <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Integrations-2E844A?style=for-the-badge"/>
 
-### 🧠 AI / ML & Data
+🧠 AI / ML & Data
+
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 
-### 🛠️ Tools & Platforms
+🛠️ Tools & Platforms
+
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 
----
+📊 GitHub Stats:
 
-# 📊 GitHub Stats:
+<br/>
 
-![](https://github-readme-stats.shion.dev/api?username=rupali-chauksey&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+<br/>
 
-![](https://streak-stats.demolab.com/?user=rupali-chauksey&theme=dark&hide_border=true)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rupali-chauksey&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
+🛠️ Complete Tech Stack & Ecosystem
 
-### 🛠️ Complete Tech Stack & Ecosystem
+🤖 AI Systems, Voice Agents & LLMs
 
-#### 🤖 AI Systems, Voice Agents & LLMs
 <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Grok_AI-000000?style=for-the-badge&logo=x&logoColor=white" /> <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" /> <img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge&logo=execution&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" /> <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 
-#### 💻 Languages, Frameworks & Web Development
+💻 Languages, Frameworks & Web Development
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-#### 🎨 Modern AI Design, Prototyping & Generative Tools
+🎨 Modern AI Design, Prototyping & Generative Tools
+
 <img src="https://img.shields.io/badge/Lovable_AI-FF4081?style=for-the-badge&logo=sparkles&logoColor=white" /> <img src="https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logo=lightning&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Gamma-6C5CE7?style=for-the-badge&logo=slides&logoColor=white" /> <img src="https://img.shields.io/badge/Napkin_AI-FF6600?style=for-the-badge&logo=write&logoColor=white" />
 
-#### ⚙️ Cloud, Integrations, APIs & Databases
+⚙️ Cloud, Integrations, APIs & Databases
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Green_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" /> <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/ngrok-1E1E2E?style=for-the-badge&logo=ngrok&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 
+🎯 Currently Deepening
+
+🤖 Advanced multi-agent orchestration and autonomous workflow design
+
+☁️ Agentforce + Salesforce AI patterns
+
+📚 Scalable RAG and knowledge retrieval systems
+
+🔗 LLM ↔ Salesforce integrations using APIs, Apex and automation
+
+🎥 Multimodal AI workflows with stronger validation and safety layers
+
+🤝 Open to Collaborate On
+
+Agentic AI systems for business process automation
+
+Salesforce + AI hybrid solutions
+
+RAG-based knowledge assistants
+
+AI-powered CRM workflows and integrations
+
+
 ---
 
-## 🎯 Currently Deepening
-
-- 🤖 Advanced **multi-agent orchestration** and autonomous workflow design
-- ☁️ **Agentforce + Salesforce** AI patterns
-- 📚 Scalable **RAG and knowledge retrieval** systems
-- 🔗 LLM ↔ Salesforce integrations using APIs, Apex and automation
-- 🎥 Multimodal AI workflows with stronger validation and safety layers
-
-
-## 🤝 Open to Collaborate On
-
-- Agentic AI systems for business process automation
-- Salesforce + AI hybrid solutions
-- RAG-based knowledge assistants
-- AI-powered CRM workflows and integrations
-
+<p align="center">
+  <strong>⚡ Building where CRM meets autonomous intelligence.</strong><br/>
+  <sub>Let's connect and build something intelligent.</sub>
+</p>
