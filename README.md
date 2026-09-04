@@ -49,7 +49,6 @@ class RupaliChouksey:
 
     currently_building = "AI agents + intelligent business workflows"
 
-    philosophy = "The future of CRM isn't automation — it's autonomy."
 ```
 
 - 🤖 Building **Agentic AI systems** that can reason, plan, use tools and execute multi-step workflows
