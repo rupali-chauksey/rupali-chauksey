@@ -8,7 +8,7 @@
 <h3 align="center">Salesforce Developer • Agentic AI Engineer • AI Automation Builder</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rupali-chauksey/">
+    <a href="https://www.linkedin.com/in/rupalichauksey/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/rupali-chauksey">
