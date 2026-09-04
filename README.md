@@ -6,11 +6,11 @@
   <a href="https://www.linkedin.com/in/rupali-chauksey/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:rupalichauksey@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://github.com/rupali-chauksey">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:rupalichauksey@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agentforce-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agentic_AI-8E75B2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-8E75B2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG_Systems-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apex-1434CB?style=for-the-badge"/>
@@ -46,8 +46,10 @@
 class RupaliChouksey:
     role = "Salesforce Developer & Agentic AI Engineer"
     experience = "3+ Years in Salesforce Ecosystem"
-    focus = ["Agentic AI", "RAG", "LLM Orchestration",
-             "Salesforce", "Agentforce", "CRM Automation"]
+    focus = [
+        "Agentic AI", "RAG", "LLM Orchestration",
+        "Salesforce", "Agentforce", "CRM Automation"
+    ]
 
     currently_building = "AI agents + intelligent business workflows"
 
@@ -76,38 +78,40 @@ class RupaliChouksey:
 | 🤖 Agentic AI | ☁️ Salesforce + AI |
 |---|---|
 | Autonomous agents, tool calling, multi-step workflows and LLM orchestration | Agentforce, Apex, LWC and intelligent CRM automation |
-
-| 📚 RAG & Knowledge Systems | 🎥 Multimodal AI |
-|---|---|
+| 📚 **RAG & Knowledge Systems** | 🎥 **Multimodal AI** |
 | Retrieval pipelines, grounded responses and knowledge assistants | Voice + image + video workflows with validation and safety controls |
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Featured Project
 
-### 🩺 [Skinova Clinical Intelligence](https://github.com/rupali-chauksey/skinova-clinical-intelligence)
-**Multimodal AI Skin Consultation Assistant**
-
-A portfolio AI system combining **voice, skin image and video inputs** with a Vision-Language Model, deterministic Python validation, confidence-aware output and voice responses.
-
-**Engineering highlights**
-- 🎥 Multimodal **voice + image + video** workflow
-- 🧠 **Qwen3.6-27B via Groq** for vision-language analysis
-- 🛡️ Deterministic Python **image/video body-part validation gate**
-- 📊 Confidence-aware output: High / Medium / Low / Not Assessed
-- 🔊 Speech-to-text + text-to-speech workflow
-- 🐳 Dockerized and deployment-ready architecture
-
-**Tech:** `Python` `Gradio` `Qwen3.6-27B` `Groq` `OpenCV` `Pillow` `Deepgram` `Docker`
-
-> **Note:** Skinova is a portfolio/engineering project and is not a medical diagnostic system.
-
-**[View Project →](https://github.com/rupali-chauksey/skinova-clinical-intelligence)**
-
----
+<table>
+  <tr>
+    <td>
+      <h3>🩺 <a href="https://github.com/rupali-chauksey/skinova-clinical-intelligence">Skinova Clinical Intelligence</a></h3>
+      <strong>Multimodal AI Skin Consultation Assistant</strong>
+      <br/><br/>
+      A portfolio AI system combining <strong>voice, skin image and video inputs</strong> with a Vision-Language Model, deterministic Python validation, confidence-aware output and voice responses.
+      <br/><br/>
+      <strong>Engineering highlights</strong>
+      <ul>
+        <li>🎥 Multimodal <strong>voice + image + video</strong> workflow</li>
+        <li>🧠 <strong>Qwen3.6-27B via Groq</strong> for vision-language analysis</li>
+        <li>🛡️ Deterministic Python <strong>image/video body-part validation gate</strong></li>
+        <li>📊 Confidence-aware output: High / Medium / Low / Not Assessed</li>
+        <li>🔊 Speech-to-text + text-to-speech workflow</li>
+        <li>🐳 Dockerized and deployment-ready architecture</li>
+      </ul>
+      <strong>Tech:</strong> <code>Python</code> <code>Gradio</code> <code>Qwen3.6-27B</code> <code>Groq</code> <code>OpenCV</code> <code>Pillow</code> <code>Deepgram</code> <code>Docker</code>
+      <br/><br/>
+      <em>Note: Skinova is a portfolio/engineering project and is not a medical diagnostic system.</em>
+      <br/><br/>
+      🔗 <a href="https://github.com/rupali-chauksey/skinova-clinical-intelligence"><strong>View Repository →</strong></a>
+    </td>
+  </tr>
+</table>
 
 ### 🔗 More Projects Coming Soon
-
 More Agentic AI, Salesforce and automation projects will be added here as they are published.
 
 ---
@@ -144,7 +148,8 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repos-Dynamic-181717?style=for-the-badge&logo=github" alt="Total Repositories"/>
+  <img src="https://img.shields.io/github/repos/rupali-chauksey?style=for-the-badge&label=Public%20Repos&logo=github" alt="Public Repositories"/>
+  <img src="https://img.shields.io/github/stars/rupali-chauksey?style=for-the-badge&label=Total%20Stars&logo=github" alt="Total Stars"/>
   <img src="https://img.shields.io/github/followers/rupali-chauksey?style=for-the-badge&label=Followers&logo=github" alt="GitHub Followers"/>
   <img src="https://komarev.com/ghpvc/?username=rupali-chauksey&style=for-the-badge&label=Profile%20Views&color=1B96FF" alt="Profile Views"/>
 </p>
@@ -156,11 +161,17 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rupali-chauksey/rupali-chauksey/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+  <strong>🎬 Animated Contribution Snake</strong><br/>
+  <img src="https://raw.githubusercontent.com/rupali-chauksey/rupali-chauksey/output/ocean.gif" alt="Animated GitHub Contribution Snake" width="100%"/>
 </p>
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rupali-chauksey/rupali-chauksey/output/github-snake-dark.svg" alt="GitHub Contribution Snake Dark"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rupali-chauksey/rupali-chauksey/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rupali-chauksey/rupali-chauksey/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/rupali-chauksey/rupali-chauksey/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+  </picture>
 </p>
 
 ---
