@@ -100,9 +100,10 @@ class RupaliChouksey:
         <li>🔊 Speech-to-text + text-to-speech workflow</li>
         <li>🐳 Dockerized and deployment-ready architecture</li>
       </ul>
-      <img src="https://img.shields.io/badge/Qwen3.6-27B-00A1E0?style=for-the-badge&logo=Qwen3.6-27B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-1B96FF?style=for-the-badge&logo=Python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Groq-8E75B2?style=for-the-badge"/>
+      </ul>
+      <strong>Tech:</strong> <code>Python</code> <code>Gradio</code> <code>Qwen3.6-27B</code> <code>Groq</code> <code>OpenCV</code> <code>Pillow</code> <code>Deepgram</code>
+       <code>Docker</code>
+      <br/><br/>
       <em>Note: Skinova is a portfolio/engineering project and is not a medical diagnostic system.</em>
       <br/><br/>
       🔗 <a href="https://github.com/rupali-chauksey/skinova-clinical-intelligence"><strong>View Repository →</strong></a>
