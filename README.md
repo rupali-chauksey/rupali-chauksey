@@ -172,4 +172,22 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rupali-chauksey&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Rupali Chouksey's GitHub Stats"
+    height="190"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rupali-chauksey&theme=dark&hide_border=true"
+    alt="Rupali Chouksey's GitHub Streak"
+    height="190"
+  />
+</p>
+
+
+
 
