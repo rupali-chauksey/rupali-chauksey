@@ -172,7 +172,7 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 - AI-powered CRM workflows and integrations
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ali04-Hassan/Ali04-Hassan/output/github-user-contribution-grid-snake-dark.svg" alt="Ali Hassan Contribution Snake Graph" />
+  <img src="https://raw.githubusercontent.com/rupali-chauksey/rupali-chauksey/output/github-user-contribution-grid-snake-dark.svg" alt="rupali-chauksey Contribution Snake Graph" />
 </p>
 
 
