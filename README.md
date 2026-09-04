@@ -38,10 +38,6 @@
 
 ## 🧠 About Me
 
-<table>
-  <tr>
-    <td width="68%" valign="middle">
-
 ```python
 class RupaliChouksey:
     role = "Salesforce Developer & Agentic AI Engineer"
@@ -62,14 +58,12 @@ class RupaliChouksey:
 - ⚙️ Connecting AI with real business workflows instead of building isolated demos
 - 🚀 Focused on practical, production-minded AI engineering and automation
 
-    </td>
-    <td width="32%" align="center" valign="middle">
-      <img src="./assets/rupali-profile.jpeg" width="220" alt="Rupali Chouksey"/>
-      <br/><br/>
-      <strong>Salesforce Developer × Agentic AI Engineer</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-1B96FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Primary%20Focus-Agentic%20AI-8E75B2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Background-Salesforce-00A1E0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2E844A?style=flat-square"/>
+</p>
 
 ---
 
