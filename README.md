@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rupali Chouksey</h1>
+<h1 align="center">Hi 👋, I'm Rupali Chauksey</h1>
 
 <h3 align="center">Salesforce Developer • Agentic AI Engineer • AI Automation Builder</h3>
 
