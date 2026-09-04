@@ -34,15 +34,8 @@
   <img src="https://img.shields.io/badge/Apex-1434CB?style=for-the-badge"/>
 </p>
 
----
+🧠 About Me
 
-## 🧠 About Me
-
-<table>
-  <tr>
-    <td width="68%" valign="middle">
-
-```python
 class RupaliChouksey:
     role = "Salesforce Developer & Agentic AI Engineer"
     experience = "3+ Years in Salesforce Ecosystem"
@@ -54,36 +47,36 @@ class RupaliChouksey:
     currently_building = "AI agents + intelligent business workflows"
 
     philosophy = "The future of CRM isn't automation — it's autonomy."
-```
 
-- 🤖 Building **Agentic AI systems** that can reason, plan, use tools and execute multi-step workflows
-- ☁️ Working across **Salesforce, Apex, LWC, integrations and Agentforce**
-- 📚 Exploring **RAG pipelines, LLM orchestration and multimodal AI**
-- ⚙️ Connecting AI with real business workflows instead of building isolated demos
-- 🚀 Focused on practical, production-minded AI engineering and automation
+🤖 Building Agentic AI systems that can reason, plan, use tools and execute multi-step workflows
 
-    </td>
-    <td width="32%" align="center" valign="middle">
-      <img src="./assets/rupali-profile.jpeg" width="220" alt="Rupali Chouksey"/>
-      <br/><br/>
-      <strong>Salesforce Developer × Agentic AI Engineer</strong>
-    </td>
-  </tr>
-</table>
+☁️ Working across Salesforce, Apex, LWC, integrations and Agentforce
 
----
+📚 Exploring RAG pipelines, LLM orchestration and multimodal AI
 
-## 🚀 What I Build
+⚙️ Connecting AI with real business workflows instead of building isolated demos
 
-| 🤖 Agentic AI | ☁️ Salesforce + AI |
-|---|---|
-| Autonomous agents, tool calling, multi-step workflows and LLM orchestration | Agentforce, Apex, LWC and intelligent CRM automation |
-| 📚 **RAG & Knowledge Systems** | 🎥 **Multimodal AI** |
-| Retrieval pipelines, grounded responses and knowledge assistants | Voice + image + video workflows with validation and safety controls |
+🚀 Focused on practical, production-minded AI engineering and automation
 
----
+🚀 What I Build
 
-## ⭐ Featured Project
+🤖 Agentic AI
+
+☁️ Salesforce + AI
+
+Autonomous agents, tool calling, multi-step workflows and LLM orchestration
+
+Agentforce, Apex, LWC and intelligent CRM automation
+
+📚 RAG & Knowledge Systems
+
+🎥 Multimodal AI
+
+Retrieval pipelines, grounded responses and knowledge assistants
+
+Voice + image + video workflows with validation and safety controls
+
+⭐ Featured Project
 
 <table>
   <tr>
@@ -111,28 +104,29 @@ class RupaliChouksey:
   </tr>
 </table>
 
-### 🔗 More Projects Coming Soon
+🔗 More Projects Coming Soon
+
 More Agentic AI, Salesforce and automation projects will be added here as they are published.
 
----
+🧩 Core Tech Stack
 
-## 🧩 Core Tech Stack
+🤖 Agentic AI, LLMs & Automation
 
-### 🤖 Agentic AI, LLMs & Automation
 <img src="https://img.shields.io/badge/Agentic_AI-8E75B2?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLM_Orchestration-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Agentforce-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### ☁️ Salesforce Ecosystem
+☁️ Salesforce Ecosystem
+
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Apex-1434CB?style=for-the-badge"/> <img src="https://img.shields.io/badge/LWC-0176D3?style=for-the-badge"/> <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Integrations-2E844A?style=for-the-badge"/>
 
-### 🧠 AI / ML & Data
+🧠 AI / ML & Data
+
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 
-### 🛠️ Tools & Platforms
+🛠️ Tools & Platforms
+
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 
----
-
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rupali-chauksey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
@@ -154,17 +148,14 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
   <img src="https://komarev.com/ghpvc/?username=rupali-chauksey&style=for-the-badge&label=Profile%20Views&color=1B96FF" alt="Profile Views"/>
 </p>
 
-> **GitHub activity:** This profile highlights projects I build and ship across Salesforce, Agentic AI, automation and applied AI engineering.
+GitHub activity: This profile highlights projects I build and ship across Salesforce, Agentic AI, automation and applied AI engineering.
 
----
-
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <p align="center">
   <strong>🎬 Animated Contribution Snake</strong><br/>
   <img src="https://raw.githubusercontent.com/rupali-chauksey/rupali-chauksey/output/ocean.gif" alt="Animated GitHub Contribution Snake" width="100%"/>
 </p>
-
 
 <p align="center">
   <picture>
@@ -174,24 +165,27 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
   </picture>
 </p>
 
----
+🎯 Currently Deepening
 
-## 🎯 Currently Deepening
+🤖 Advanced multi-agent orchestration and autonomous workflow design
 
-- 🤖 Advanced **multi-agent orchestration** and autonomous workflow design
-- ☁️ **Agentforce + Salesforce** AI patterns
-- 📚 Scalable **RAG and knowledge retrieval** systems
-- 🔗 LLM ↔ Salesforce integrations using APIs, Apex and automation
-- 🎥 Multimodal AI workflows with stronger validation and safety layers
+☁️ Agentforce + Salesforce AI patterns
 
-## 🤝 Open to Collaborate On
+📚 Scalable RAG and knowledge retrieval systems
 
-- Agentic AI systems for business process automation
-- Salesforce + AI hybrid solutions
-- RAG-based knowledge assistants
-- AI-powered CRM workflows and integrations
+🔗 LLM ↔ Salesforce integrations using APIs, Apex and automation
 
----
+🎥 Multimodal AI workflows with stronger validation and safety layers
+
+🤝 Open to Collaborate On
+
+Agentic AI systems for business process automation
+
+Salesforce + AI hybrid solutions
+
+RAG-based knowledge assistants
+
+AI-powered CRM workflows and integrations
 
 <p align="center">
   <strong>⚡ Building where CRM meets autonomous intelligence.</strong><br/>
