@@ -156,21 +156,25 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 ---
 
 
-## 🎯 Currently Deepening
+## 🚀 Building & Working With
 
 - 🤖 Advanced **multi-agent orchestration** and autonomous workflow design
+- ☁️ Salesforce Agentforce & AI-powered CRM
 - ☁️ **Agentforce + Salesforce** AI patterns
 - 📚 Scalable **RAG and knowledge retrieval** systems
 - 🔗 LLM ↔ Salesforce integrations using APIs, Apex and automation
 - 🎥 Multimodal AI workflows with stronger validation and safety layers
+  
 
 
-## 🤝 Open to Collaborate On
+## 🤝 Open to Opportunities & Collaboration
 
-- Agentic AI systems for business process automation
-- Salesforce + AI hybrid solutions
-- RAG-based knowledge assistants
-- AI-powered CRM workflows and integrations
+- AI Engineer / Agentic AI roles
+- Salesforce + AI / Agentforce roles
+- Agentic AI systems for business automation
+- RAG-based AI assistants
+- AI-powered CRM workflows & integrations
+
 
 
 
