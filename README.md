@@ -132,7 +132,7 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /><img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /><img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /><img src="https://img.shields.io/badge/Grok_AI-000000?style=for-the-badge&logo=x&logoColor=white" /><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /><img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" /><img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge" />
 
-### ⚙️ AI Automation, APIs & Workflow Engineering
+### ⚙️ AI Automation, Tool Calling & Workflow Engineering
 
 <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" /><img src="https://img.shields.io/badge/Tool%20Calling-2496ED?style=for-the-badge" /><img src="https://img.shields.io/badge/APIs-2E844A?style=for-the-badge" /><img src="https://img.shields.io/badge/Webhooks-2E844A?style=for-the-badge" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
@@ -142,7 +142,7 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 
 ### ☁️ Cloud, Deployment & Developer Tools
 
-><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" /><img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" /><img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
 
 ---
