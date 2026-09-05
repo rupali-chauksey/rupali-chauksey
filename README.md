@@ -111,8 +111,6 @@ class RupaliChouksey:
   </tr>
 </table>
 
-### 🔗 More Projects 
-Additional Agentic AI, RAG, Salesforce and automation projects.
 
 ---
 
