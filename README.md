@@ -58,9 +58,9 @@ class RupaliChouksey:
 
 - 🤖 Building **Agentic AI systems** that can reason, plan, use tools and execute multi-step workflows
 - ☁️ Working across **Salesforce, Apex, LWC, integrations and Agentforce**
-- 📚 Exploring **RAG pipelines, LLM orchestration and multimodal AI**
+- 📚 Building **RAG pipelines, LLM orchestration and multimodal AI workflows**
 - ⚙️ Connecting AI with real business workflows instead of building isolated demos
-- 🚀 Focused on practical, production-minded AI engineering and automation
+- 🚀 Focused on practical, production-minded **AI engineering and automation**88
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-1B96FF?style=flat-square"/>
@@ -140,6 +140,81 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 
 #### ⚙️ Cloud, Integrations, APIs & Databases
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/Green_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" /><img src="https://img.shields.io/badge/ngrok-1E1E2E?style=for-the-badge&logo=ngrok&logoColor=white" /><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+
+
+--------
+
+
+
+
+## 🧩 Core Tech Stack
+
+### 🤖 Agentic AI & LLM Engineering
+
+<img src="https://img.shields.io/badge/Agentic_AI-8E75B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM_Orchestration-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+### ☁️ Salesforce & Agentforce
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentforce-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apex-1434CB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LWC-0176D3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Integrations-2E844A?style=for-the-badge"/>
+
+### 🧠 LLMs, Multimodal AI & Voice
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Grok_AI-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge" />
+
+### ⚙️ AI Automation, APIs & Workflow Engineering
+
+<img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/APIs-2E844A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Webhooks-2E844A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+### 📊 AI / ML & Data
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+
+### ☁️ Cloud, Deployment & Developer Tools
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
