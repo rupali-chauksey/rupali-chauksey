@@ -156,7 +156,7 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 ---
 
 
-## 🚀 Building & Working With
+## 🚀 Building With
 
 - 🤖 Advanced **multi-agent orchestration** and autonomous workflow design
 - ☁️ Salesforce Agentforce & AI-powered CRM
@@ -167,15 +167,14 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
   
 
 
-## 🤝 Open to Opportunities & Collaboration
+## 🤝 Open to Opportunities
 
-- AI Engineer / Agentic AI roles
-- Salesforce + AI / Agentforce roles
-- Agentic AI systems for business automation
-- RAG-based AI assistants
-- AI-powered CRM workflows & integrations
-
-
+- 🤖 **AI Engineer / Agentic AI Engineer roles**
+- ☁️ **Salesforce AI / Agentforce roles**
+- 🔗 **AI + Salesforce engineering roles**
+- ⚙️ **Agentic AI & business automation**
+- 📚 **RAG & knowledge assistant systems**
+- 🔄 **AI-powered CRM workflows & integrations**
 
 
 
