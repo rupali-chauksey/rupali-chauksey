@@ -25,8 +25,8 @@
 
 <p align="center">
   <strong>
-    Building intelligent systems where enterprise CRM meets Agentic AI.<br/>
-    From Salesforce automation to multimodal AI, RAG pipelines and autonomous workflows.
+    Building intelligent systems at the intersection of Salesforce and Agentic AI.<br/>
+    From enterprise CRM automation to autonomous agents, RAG and multimodal AI workflows.
   </strong>
 </p>
 
@@ -60,7 +60,7 @@ class RupaliChouksey:
 - ☁️ Working across **Salesforce, Apex, LWC, integrations and Agentforce**
 - 📚 Building **RAG pipelines, LLM orchestration and multimodal AI workflows**
 - ⚙️ Connecting AI with real business workflows instead of building isolated demos
-- 🚀 Focused on practical, production-minded **AI engineering and automation**88
+- 🚀 Focused on practical, production-minded **AI engineering and automation**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-1B96FF?style=flat-square"/>
@@ -111,8 +111,8 @@ class RupaliChouksey:
   </tr>
 </table>
 
-### 🔗 More Projects Coming Soon
-More Agentic AI, Salesforce and automation projects will be added here as they are published.
+### 🔗 More Projects 
+Additional Agentic AI, RAG, Salesforce and automation projects.
 
 ---
 
@@ -162,13 +162,12 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 
 ## 🚀 Building With
 
+
 - 🤖 Advanced **multi-agent orchestration** and autonomous workflow design
-- ☁️ Salesforce Agentforce & AI-powered CRM
-- ☁️ **Agentforce + Salesforce** AI patterns
+- ☁️ **Salesforce, Agentforce & AI-powered CRM**
 - 📚 Scalable **RAG and knowledge retrieval** systems
-- 🔗 LLM ↔ Salesforce integrations using APIs, Apex and automation
-- 🎥 Multimodal AI workflows with stronger validation and safety layers
-  
+- 🔗 **LLM ↔ Salesforce integrations** using APIs, Apex and automation
+- 🎥 **Multimodal AI workflows** with validation and safety layers
 
 
 ## 🤝 Open to Opportunities
