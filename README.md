@@ -71,7 +71,7 @@ class RupaliChouksey:
 
 ---
 
-## 🚀 What I Build
+## 🚀 Building With
 
 | 🤖 Agentic AI & Autonomous Workflows | ☁️ Salesforce & Agentforce |
 |---|---|
@@ -158,16 +158,6 @@ Additional Agentic AI, RAG, Salesforce and automation projects.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-
-
-## 🚀 Building With
-
-
-- 🤖 Advanced **multi-agent orchestration** and autonomous workflow design
-- ☁️ **Salesforce, Agentforce & AI-powered CRM**
-- 📚 Scalable **RAG and knowledge retrieval** systems
-- 🔗 **LLM ↔ Salesforce integrations** using APIs, Apex and automation
-- 🎥 **Multimodal AI workflows** with validation and safety layers
 
 
 ## 🤝 Open to Opportunities
