@@ -134,7 +134,7 @@ More Agentic AI, Salesforce and automation projects will be added here as they a
 
 ### ⚙️ AI Automation, APIs & Workflow Engineering
 
-<img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" /><img src="https://img.shields.io/badge/Tool Calling-2496ED?style=for-the-badge&logo=Tool Calling&logoColor=white"/><img src="https://img.shields.io/badge/APIs-2E844A?style=for-the-badge" /><img src="https://img.shields.io/badge/Webhooks-2E844A?style=for-the-badge" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" /><img src="https://img.shields.io/badge/Tool%20Calling-2496ED?style=for-the-badge" /><img src="https://img.shields.io/badge/APIs-2E844A?style=for-the-badge" /><img src="https://img.shields.io/badge/Webhooks-2E844A?style=for-the-badge" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 ### 📊 AI / ML & Data
 
