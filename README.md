@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Profile Photo -->
+<img src="./assets/banner.png" width="100%" alt="Rupali Chauksey Banner" />
+
 <!-- Animated Header -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=00D4FF&center=true&vCenter=true&width=1000&lines=🤖+Building+Agentic+AI+Systems;☁️+Salesforce+%26+AI+Integration+Expert;🚀+From+Ideas+to+Autonomous+Solutions" alt="Animated Header" />
@@ -10,11 +13,11 @@
 ---
 
 <h3 align="center">
-  <b>🧠 Salesforce Developer</b> • <b>⚙️ Agentic AI Engineer</b> • <b>🔧 AI Automation</b>
+  <b>🧠 Salesforce Developer</b> • <b>⚙️ Agentic AI Engineer</b> • <b>🔧 AI Automation Builder</b>
 </h3>
 
 <p align="center">
-  <strong>Building intelligent systems at the intersection of Salesforce, Agentic AI, and Business Automation</strong>
+  <strong>Building intelligent systems at the intersection of Salesforce and Agentic AI</strong>
   <br/>
   <em>From enterprise CRM automation to autonomous agents, RAG pipelines, and multimodal AI workflows</em>
 </p>
@@ -33,18 +36,14 @@
   <a href="https://twitter.com/rupalichauksey" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="#-how-to-reach-me">
-    <img alt="Schedule Call" src="https://img.shields.io/badge/Schedule%20Call-Calendly-FF6B6B?style=for-the-badge&logo=calendly&logoColor=white" />
-  </a>
 </p>
 
 <!-- Stat Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-00D4FF?style=flat-square&logo=lightning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years%20Industry-00D4FF?style=flat-square&logo=lightning&logoColor=white"/>
   <img src="https://img.shields.io/badge/Primary%20Focus-Agentic%20AI-8E75B2?style=flat-square"/>
   <img src="https://img.shields.io/badge/Background-Salesforce-00A1E0?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2E844A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Available%20For-Consulting-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2E844A?style=flat-square"/>
 </p>
 
 ---
@@ -53,13 +52,11 @@
 
 ```python
 class RupaliChauksey:
-    """AI Engineer at the intersection of Salesforce and Agentic AI"""
+    """AI Engineer building Agentic AI + Salesforce solutions"""
     
     role = "Salesforce Developer & Agentic AI Engineer"
-    experience = "3+ Years in Salesforce & AI Automation"
-    location = "India"
-    
-    expertise = [
+    experience = "2+ Years in Industry (Salesforce & AI)"
+    focus = [
         "Agentic AI Systems",
         "LLM Orchestration & RAG",
         "Salesforce & Agentforce",
@@ -67,16 +64,10 @@ class RupaliChauksey:
         "Business Process Automation"
     ]
     
-    currently_building = {
-        "focus": "AI agents that reason, plan, and execute real business workflows",
-        "impact": "Reducing manual work by 80%+ for enterprise clients",
-        "learning": "Advanced agent frameworks and multimodal AI"
-    }
-    
     open_to = [
         "🤖 AI Engineer / Agentic AI roles",
         "☁️ Salesforce AI / Agentforce positions",
-        "🔗 AI + Salesforce architecture roles",
+        "🔗 AI + Salesforce engineering roles",
         "📚 RAG & Knowledge Assistant systems",
         "🤝 Technical consulting & collaborations"
     ]
@@ -85,10 +76,10 @@ class RupaliChauksey:
 ### 🎯 What I Do
 
 - **🤖 Agentic AI Systems:** Design and deploy autonomous agents that can reason, plan, use tools, and execute multi-step workflows
-- **☁️ Salesforce Integration:** Build enterprise-grade Salesforce solutions with AI capabilities using Agentforce, Apex, and LWC
-- **📚 RAG & LLM Engineering:** Create production-ready RAG pipelines with PDF fallbacks, multimodal inputs, and confidence-aware responses
-- **⚙️ Business Automation:** Connect AI with real workflows instead of building isolated demos
-- **🚀 Production-Minded:** Focus on scalability, reliability, and actual business impact
+- **☁️ Salesforce Integration:** Build enterprise Salesforce solutions with AI capabilities using Agentforce, Apex, and LWC
+- **📚 RAG & LLM Engineering:** Create production-ready RAG pipelines with multimodal inputs and confidence-aware responses
+- **⚙️ Business Automation:** Connect AI with real workflows and business processes
+- **🚀 Practical Implementation:** Focus on deployable, scalable solutions with real-world impact
 
 ---
 
@@ -112,7 +103,7 @@ class RupaliChauksey:
 ### 1. 🩺 **Skinova Clinical Intelligence** 
 **Multimodal AI Skin Consultation Assistant** | ⭐ Production-Ready
 
-A sophisticated AI system combining **voice, skin image, and video inputs** with advanced vision-language models for clinical intelligence assessment.
+A sophisticated AI system combining **voice, skin image, and video inputs** with advanced vision-language models for clinical assessment.
 
 **Key Features:**
 - 🎥 **Multimodal Workflow:** Voice + image + video real-time processing
@@ -120,20 +111,18 @@ A sophisticated AI system combining **voice, skin image, and video inputs** with
 - 🛡️ **Validation Gate:** Deterministic Python image/video body-part validation
 - 📊 **Confidence Scoring:** High / Medium / Low / Not Assessed outputs
 - 🔊 **Voice I/O:** End-to-end speech-to-text + text-to-speech
-- 🐳 **Deployment Ready:** Dockerized architecture with production best practices
+- 🐳 **Deployment Ready:** Dockerized architecture
 
 **Tech Stack:** `Python` `Gradio` `Qwen3.6-27B` `Groq` `OpenCV` `Pillow` `Deepgram` `Docker`
 
-**Impact:** Demonstrates production-grade multimodal AI system with robust validation and deployment strategy.
-
-🔗 **[View Repository](https://github.com/rupali-chauksey/skinova-clinical-intelligence)** | 📖 [Technical Deep Dive] (Coming Soon)
+🔗 **[View Repository](https://github.com/rupali-chauksey/skinova-clinical-intelligence)**
 
 ---
 
 ### 2. ⚙️ **Agentic Automation Framework** 
 **Tool Calling & Autonomous Workflows** | 🔧 Core Project
 
-Build your own autonomous agents with this production-ready framework featuring multi-step planning, tool orchestration, and intelligent routing.
+Build autonomous agents with this framework featuring multi-step planning, tool orchestration, and intelligent routing.
 
 **Key Features:**
 - 🧭 **Autonomous Planning:** Multi-step reasoning and execution
@@ -142,26 +131,26 @@ Build your own autonomous agents with this production-ready framework featuring 
 - 📊 **Workflow Execution:** Stateful workflow management
 - 🔄 **Error Handling:** Robust fallback and retry mechanisms
 
-**Tech Stack:** `Python` `LangChain` `Claude AI` `OpenAI` `Tool Calling` `Async Processing`
+**Tech Stack:** `Python` `LangChain` `Claude AI` `OpenAI` `Tool Calling`
 
-🔗 **[View Repository](https://github.com/rupali-chauksey)** | 🚀 [Try Live Demo]
+🔗 **[View Repository](https://github.com/rupali-chauksey)**
 
 ---
 
 ### 3. 🌐 **Salesforce + AI Integration Suite**
-**Enterprise CRM Automation with AI** | ☁️ Agentforce Showcase
+**Enterprise CRM Automation with AI** | ☁️ Industry Project
 
-Connect Salesforce data with Agentic AI for intelligent business workflows, customer assistance, and CRM automation.
+Production solution connecting Salesforce data with Agentic AI for intelligent business workflows and customer assistance.
 
 **Key Features:**
-- ☁️ **Agentforce Integration:** Hotel booking, check-in, food ordering
-- 🤖 **AI-Powered Workflows:** Autonomous customer assistance
+- ☁️ **Agentforce Integration:** AI-powered customer workflows
+- 🤖 **Autonomous Assistance:** Intelligent business process automation
 - 🔗 **API Orchestration:** Seamless Salesforce + AI integration
-- 📚 **Knowledge Base:** AI-powered document retrieval and assistance
+- 📚 **Knowledge Integration:** Document retrieval and AI assistance
 
-**Tech Stack:** `Salesforce` `Agentforce` `Apex` `LWC` `APIs` `Python` `LLM Orchestration`
+**Tech Stack:** `Salesforce` `Agentforce` `Apex` `LWC` `APIs` `Python`
 
-🔗 **[View Repository](https://github.com/rupali-chauksey)** | 📖 [Case Study]
+🔗 **[View Repository](https://github.com/rupali-chauksey)**
 
 ---
 
@@ -187,69 +176,57 @@ Connect Salesforce data with Agentic AI for intelligent business workflows, cust
 
 ---
 
-## 💡 Currently Working On
+## 🎯 Project Highlights
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Advanced Agent Framework** | Building a production-grade agentic system with memory, planning, and tool orchestration | 🔄 In Progress |
-| **RAG + Multimodal Pipeline** | Creating a sophisticated RAG system with PDF, web, voice, and image processing | 🔄 In Progress |
-| **Salesforce AI Integration** | Enterprise solution combining Salesforce with autonomous agents | 🔄 In Progress |
-| **Open Source Contribution** | Contributing to AI/ML open source projects | 🟢 Active |
-
----
-
-## 📚 Learning & Growth
-
-Currently deepening expertise in:
-- ✅ Advanced agent architectures and reasoning frameworks
-- ✅ Production deployment of multimodal AI systems
-- ✅ Distributed agent systems and orchestration
-- ✅ Business process automation at scale
-- ✅ LLM fine-tuning and optimization techniques
+| Project | Type | Status |
+|---------|------|--------|
+| **Skinova Clinical Intelligence** | Multimodal AI System | ⭐ Deployed & Live |
+| **Agentic Framework** | AI/LLM Engineering | ✅ Production Ready |
+| **Salesforce + AI Suite** | Enterprise Solution | ✅ Industry Project |
+| **Learning & Practice Projects** | Skill Development | 🔄 Ongoing |
 
 ---
 
-## 🏆 Achievements
+## 📚 Expertise Areas
 
-- ✅ **3+ Years** in Salesforce ecosystem & AI automation
-- ✅ **10+ Production Projects** deployed and maintained
-- ✅ **Agentic AI Expert** with focus on autonomous workflows
-- ✅ **Multimodal AI Systems** - End-to-end voice, image, video processing
-- ✅ **Enterprise Integration** - Salesforce + AI solutions for real business impact
-- ✅ **Open Source** - Contributing to AI/ML community
-
----
-
-## 📝 Recent Blog & Articles
-
-<!-- Update these with actual blog posts -->
-- 📄 **[Building Multimodal AI Systems in 2024](#)** - Technical deep dive into voice, image, and video AI
-- 📄 **[Agentic AI: From Concept to Production](#)** - Practical guide to building autonomous agents
-- 📄 **[Salesforce + AI Integration Patterns](#)** - Enterprise architecture for AI-powered CRM
-- 📄 **[RAG Systems: The Complete Guide](#)** - Building retrieval-augmented generation pipelines
+- ✅ **Agentic AI:** Agent design, tool orchestration, multi-step workflows
+- ✅ **LLM Integration:** Prompt engineering, model selection, orchestration
+- ✅ **RAG Systems:** Retrieval pipelines, knowledge integration
+- ✅ **Multimodal AI:** Voice, image, video processing
+- ✅ **Salesforce:** Agentforce, Apex, LWC, integrations
+- ✅ **Deployment:** Docker, cloud platforms, production readiness
+- ✅ **Python:** Backend development, AI/ML workflows
 
 ---
 
-## 🤝 How to Reach Me
+## 🤝 Let's Connect
 
-<div align="center">
+I'm always open to:
+- 🤖 Discussing agentic AI systems and patterns
+- ☁️ Exploring Salesforce + AI opportunities
+- 🔗 Collaborating on interesting projects
+- 💬 Technical discussions and knowledge sharing
 
-### Let's Collaborate! 🚀
+| Channel | Link |
+|---------|------|
+| **Email** | rupalichauksey@gmail.com |
+| **LinkedIn** | [/in/rupalichauksey](https://www.linkedin.com/in/rupalichauksey/) |
+| **Twitter** | [@rupalichauksey](https://twitter.com/rupalichauksey) |
+| **GitHub** | [rupali-chauksey](https://github.com/rupali-chauksey) |
 
-I'm always interested in:
-- 🤖 Discussing agentic AI architectures and patterns
-- ☁️ Exploring Salesforce + AI integration opportunities
-- 🔗 Collaborating on exciting AI/ML projects
-- 💬 Technical mentoring and knowledge sharing
+---
 
-</div>
+## 💼 Open Opportunities
 
-| Channel | Details | Response Time |
-|---------|---------|---|
-| **Email** | rupalichauksey@gmail.com | 24 hours |
-| **LinkedIn** | [/in/rupalichauksey](https://www.linkedin.com/in/rupalichauksey/) | 24-48 hours |
-| **Twitter/X** | [@rupalichauksey](https://twitter.com/rupalichauksey) | Real-time |
-| **Schedule Call** | [Calendly Link](https://calendly.com) | Book anytime |
+I'm actively open to:
+
+- 🤖 **AI Engineer / Agentic AI Engineer** roles
+- ☁️ **Salesforce AI / Agentforce** specialist positions
+- 🔗 **AI + Salesforce** engineering roles
+- ⚙️ **Agentic AI & Business Automation** positions
+- 📚 **RAG & Knowledge Assistant** systems
+- 🔄 **AI-Powered CRM Workflows** integration
+- 🤝 **Technical consulting** for AI/Salesforce projects
 
 ---
 
@@ -261,54 +238,42 @@ I'm always interested in:
 
 ---
 
-## 💼 Open Opportunities
+## 🎓 Learning & Development
 
-I'm actively open to:
+Currently expanding expertise in:
+- ✅ Advanced agent reasoning and planning
+- ✅ Production deployment of AI systems
+- ✅ Enterprise-scale integrations
+- ✅ Open source contribution
+- ✅ Industry best practices
 
-- 🤖 **AI Engineer / Agentic AI Engineer** roles at innovative companies
-- ☁️ **Salesforce AI / Agentforce** architect positions
-- 🔗 **AI + Salesforce** engineering and architecture roles
-- ⚙️ **Agentic AI & Business Automation** specialist positions
-- 📚 **RAG & Knowledge Assistant** system architect roles
-- 🔄 **AI-Powered CRM Workflows** and integration specialists
-- 🤝 **Technical Consulting** for AI/Salesforce projects
-- 📖 **Technical Writing & Content** on AI/Agentic systems
+---
 
-### What I'm Looking For:
-✅ Challenging technical problems to solve  
-✅ Opportunity to work with cutting-edge AI technologies  
-✅ Growth potential and learning opportunities  
-✅ Impact-driven projects making real difference  
-✅ Collaborative teams that value innovation
+## 🌟 What Sets Me Apart
+
+- 🎯 **Practical Focus:** Building real solutions, not just experiments
+- 🚀 **Production Mindset:** Deployable, scalable, maintainable code
+- 🤝 **Collaborative:** Strong communication and team orientation
+- 📈 **Growth-Oriented:** Continuous learning and improvement
+- 💡 **Problem-Solver:** Creative solutions to complex challenges
 
 ---
 
 ## 🎯 Quick Links
 
-- 📂 **[Portfolio & Projects](https://github.com/rupali-chauksey?tab=repositories)**
-- 📊 **[GitHub Analytics](#-github-analytics)**
-- 💬 **[Get in Touch](#-how-to-reach-me)**
-- 📚 **[Read Blog Articles](#-recent-blog--articles)**
+- 📂 **[All Projects](https://github.com/rupali-chauksey?tab=repositories)**
+- 💬 **[Get in Touch](#-lets-connect)**
 - 🔗 **[Connect on LinkedIn](https://www.linkedin.com/in/rupalichauksey/)**
-
----
-
-## 🌟 Support & Recognition
-
-If you found value in my work or repositories:
-- ⭐ **Star** repositories that help you
-- 🔗 **Share** with your network
-- 💬 **Provide feedback** to help me improve
-- 🤝 **Collaborate** on exciting projects
+- 📊 **[GitHub Profile](https://github.com/rupali-chauksey)**
 
 ---
 
 <div align="center">
 
-### Made with ❤️ by Rupali Chauksey
+### Made with 💪 by Rupali Chauksey
+
+**Building the future, one agent at a time** 🚀
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Rupali-chauksey&color=00D4FF&style=flat-square)](https://github.com/rupali-chauksey)
-
-**Last Updated:** 2024 | **Always Learning & Growing** 🚀
 
 </div>
