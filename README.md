@@ -86,21 +86,6 @@ class RupaliChauksey:
 
 ---
 
-## 📊 Quick Stats
-
-<p align="center">
-  <a href="#-github-analytics">
-    <img width="48%" src="https://github-readme-stats.shion.dev/api?username=Rupali-chauksey&theme=dark&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" alt="GitHub Stats"/>
-    <img width="48%" src="https://streak-stats.demolab.com/?user=Rupali-chauksey&theme=dark&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rupali-chauksey&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 1. 🩺 **Skinova Clinical Intelligence** 
@@ -226,7 +211,14 @@ I'm actively open to:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupali-chauksey&theme=dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <a href="#-github-analytics">
+    <img width="48%" src="https://github-readme-stats.shion.dev/api?username=Rupali-chauksey&theme=dark&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" alt="GitHub Stats"/>
+    <img width="48%" src="https://streak-stats.demolab.com/?user=Rupali-chauksey&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rupali-chauksey&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
