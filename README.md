@@ -10,7 +10,7 @@
 ---
 
 <h3 align="center">
-  <b>🧠 Salesforce Developer</b> • <b>⚙️ Agentic AI Engineer</b> • <b>🔧 AI Automation Architect</b>
+  <b>🧠 Salesforce Developer</b> • <b>⚙️ Agentic AI Engineer</b> • <b>🔧 AI Automation</b>
 </h3>
 
 <p align="center">
