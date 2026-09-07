@@ -179,16 +179,6 @@ Production solution connecting Salesforce data with Agentic AI for intelligent b
 
 ---
 
-## 🎯 Project Highlights
-
-| Project | Type | Status |
-|---------|------|--------|
-| **Skinova Clinical Intelligence** | Multimodal AI System | ⭐ Deployed & Live |
-| **Agentic Framework** | AI/LLM Engineering | ✅ Production Ready |
-| **Salesforce + AI Suite** | Enterprise Solution | ✅ Industry Project |
-| **Learning & Practice Projects** | Skill Development | 🔄 Ongoing |
-
----
 
 ## 📚 Expertise Areas
 
