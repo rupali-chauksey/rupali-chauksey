@@ -83,7 +83,7 @@ class RupaliChauksey:
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
 
 <table>
   <tr>
@@ -129,6 +129,30 @@ class RupaliChauksey:
       <strong>Tech:</strong> <code>Python</code> <code>RAG</code> <code>MCP</code> <code>LangChain</code> <code>Vector DB</code>
       <br/><br/>
       🔗 <a href="https://github.com/rupali-chauksey/intellidocs-ai-enterprise-rag-mcp"><strong>View Repository →</strong></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>🏭 <a href="https://github.com/rupali-chauksey/indusguard-ai">IndusGuard — Real-Time Predictive Maintenance</a></h3>
+      <strong>Autonomous Manufacturing Intelligence & Multi-Agent Orchestration</strong>
+      <br/><br/>
+      Enterprise-grade agentic manufacturing platform for predictive maintenance, anomaly detection, and autonomous mitigation planning. Combines deterministic analytics, isolation forest anomaly detection, gradient-boosted RUL forecasting, spatial 3D digital twin, and Human-in-the-Loop (HITL) governance.
+      <br/><br/>
+      <strong>Engineering highlights</strong>
+      <ul>
+        <li>🤖 <strong>Multi-Agent Orchestration</strong>: Diagnostic, Predictive, and Planning agents for autonomous intelligence</li>
+        <li>📊 <strong>47+ Hour RUL Predictions</strong> with Monte Carlo scenario simulation and failure probability forecasting</li>
+        <li>🔍 <strong>Isolation Forest Anomaly Detection</strong> on multi-variate industrial telemetry streams</li>
+        <li>🎯 <strong>Spatial 3D Digital Twin</strong> with temporal time-travel from historical outages to predicted failures</li>
+        <li>🛑 <strong>Human-in-the-Loop Governance</strong>: Role-based RBAC for operator/supervisor/plant-head approvals</li>
+        <li>💰 <strong>Proven ROI</strong>: 1,008% Year 1 ROI | ₹18.4L saved in 6-month field trial | 34% unplanned downtime reduction</li>
+      </ul>
+      <strong>Tech:</strong> <code>Python 3.11+</code> <code>Streamlit</code> <code>Groq Cloud (120B LLM)</code> <code>ChromaDB</code> <code>scikit-learn</code> <code>Plotly 3D</code> <code>NetworkX</code> <code>SQLite Audit</code> <code>Docker</code>
+      <br/><br/>
+      🔗 <a href="https://github.com/rupali-chauksey/indusguard-ai"><strong>View Repository →</strong></a>
     </td>
   </tr>
 </table>
@@ -188,4 +212,3 @@ I'm actively open to:
 | **LinkedIn** | [/in/rupalichauksey](https://www.linkedin.com/in/rupalichauksey/) |
 | **Twitter** | [@rupalichauksey](https://twitter.com/rupalichauksey) |
 | **GitHub** | [rupali-chauksey](https://github.com/rupali-chauksey) |
-
