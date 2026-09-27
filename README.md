@@ -157,6 +157,31 @@ class RupaliChauksey:
   </tr>
 </table>
 
+
+
+<table>
+  <tr>
+    <td>
+      <h3>📄 <a href="https://github.com/rupali-chauksey/OptiVendor">OptiVendor— Autonomous Multi-Agent Inventory Procurement & Negotiation System</a></h3>
+      <strong>OptiVendor is an AI-powered system that automatically manages retail store inventory — it checks stock, negotiates with vendors, places orders, and asks a human manager for approval when the order is too
+        expensive</strong>
+      <br/><br/>
+    
+      <br/><br/>
+      <strong>Engineering highlights</strong>
+      <ul>
+        <li>📚 Retrieval-Augmented Generation pipeline over enterprise documents</li>
+        <li>🔌 <strong>MCP integration</strong> for standardized agent-to-tool communication</li>
+        <li>🧠 Grounded, citation-aware responses to reduce hallucination</li>
+        <li>🏢 Built for enterprise-scale knowledge retrieval workflows</li>
+      </ul>
+      <strong>Tech:</strong> <code>Python</code> <code>RAG</code> <code>MCP</code> <code>LangChain</code> <code>Vector DB</code>
+      <br/><br/>
+      🔗 <a href="https://github.com/rupali-chauksey/intellidocs-ai-enterprise-rag-mcp"><strong>View Repository →</strong></a>
+    </td>
+  </tr>
+</table>
+
 <p align="center"><sub>📂 More projects on my <a href="https://github.com/rupali-chauksey?tab=repositories">GitHub repositories</a></sub></p>
 
 ---
