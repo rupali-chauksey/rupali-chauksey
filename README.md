@@ -168,16 +168,18 @@ class RupaliChauksey:
       <br/><br/>
     
       <br/><br/>
-      <strong>Engineering highlights</strong>
-      <ul>
-        <li>📚 Retrieval-Augmented Generation pipeline over enterprise documents</li>
-        <li>🔌 <strong>MCP integration</strong> for standardized agent-to-tool communication</li>
-        <li>🧠 Grounded, citation-aware responses to reduce hallucination</li>
-        <li>🏢 Built for enterprise-scale knowledge retrieval workflows</li>
-      </ul>
-      <strong>Tech:</strong> <code>Python</code> <code>RAG</code> <code>MCP</code> <code>LangChain</code> <code>Vector DB</code>
-      <br/><br/>
-      🔗 <a href="https://github.com/rupali-chauksey/intellidocs-ai-enterprise-rag-mcp"><strong>View Repository →</strong></a>
+    ### Engineering Highlights
+
+- 🤖 **Multi-Agent Orchestration** via LangGraph state machine (5 specialized agents)
+- 🛡️ **Deterministic Guardrails** — Budget, Overstocking, Loop guards enforced in Python code (not LLM prompts)
+- 👤 **Human-in-the-Loop Approval** — Manager approves orders > $500 before execution
+- 💬 **Agent-to-Agent (A2A) Negotiation** — Autonomous multi-round vendor price negotiation
+- 📋 **Full Audit Trail** — Every decision logged to `approval_log.txt` for compliance
+- 🔒 **Layered Defense** — Multiple independent safety checks prevent failures
+
+**Tech:** `Python` · `LangGraph` · `Ollama (qwen2.5:7b)` · `SQLite` · `Streamlit` · `Pandas`
+
+🔗 **[View Repository →](https://github.com/rupali-chauksey/Opti-Vendor)**
     </td>
   </tr>
 </table>
