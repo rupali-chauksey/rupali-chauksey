@@ -167,8 +167,7 @@ class RupaliChauksey:
         expensive</strong>
       <br/><br/>
     
-      <br/><br/>
-    ### Engineering Highlights
+   <strong>Engineering highlights</strong>
 
 - 🤖 **Multi-Agent Orchestration** via LangGraph state machine (5 specialized agents)
 - 🛡️ **Deterministic Guardrails** — Budget, Overstocking, Loop guards enforced in Python code (not LLM prompts)
