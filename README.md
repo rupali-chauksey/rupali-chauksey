@@ -178,7 +178,7 @@ class RupaliChauksey:
 
 **Tech:** `Python` · `LangGraph` · `Ollama (qwen2.5:7b)` · `SQLite` · `Streamlit` · `Pandas`
 
-🔗 **[View Repository →](https://github.com/rupali-chauksey/Opti-Vendor)**
+🔗 **[View Repository →](https://github.com/rupali-chauksey/OptiVendor)**
     </td>
   </tr>
 </table>
