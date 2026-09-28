@@ -151,8 +151,6 @@ An enterprise-grade RAG system that connects document knowledge to AI agents via
 
 <strong>Industrial Intelligence. Guaranteed.</strong> <br/> <em>Agentic AI Platform for Predictive Maintenance, Digital Twin, RAG, and Human-in-the-Loop Governance.</em>
 
-<br/><br/>
-
 <strong>Engineering highlights</strong>
 
 <ul>
