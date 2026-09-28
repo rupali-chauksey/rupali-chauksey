@@ -136,7 +136,7 @@ class RupaliChauksey:
 <table>
   <tr>
     <td>
-      <h3>🏭 <a href="https://github.com/rupali-chauksey/indusguard-ai">IndusGuard — Agentic AI for Industrial Intelligence</a></h3>
+      <h3>🏭<a href="https://github.com/rupali-chauksey/indusguard-ai">IndusGuard — Agentic AI for Industrial Intelligence</a></h3>
       <strong>Autonomous Manufacturing Intelligence & Multi-Agent Orchestration</strong>
       <br/><br/>
       Enterprise-grade agentic manufacturing platform for predictive maintenance, anomaly detection, and autonomous mitigation planning. Combines deterministic analytics, isolation forest anomaly detection, gradient-boosted RUL forecasting, spatial 3D digital twin, and Human-in-the-Loop (HITL) governance.
