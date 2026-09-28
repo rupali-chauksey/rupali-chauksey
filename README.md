@@ -106,23 +106,17 @@ A portfolio AI system combining <strong>voice, skin image, and video inputs</str
 <strong>Tech:</strong> <code>Python</code> <code>Gradio</code> <code>Qwen3.6-27B</code> <code>Groq</code> <code>OpenCV</code> <code>Pillow</code> <code>Deepgram</code> <code>Docker</code>
 <br/><br/>
 <em>Note: Skinova is a portfolio/engineering project and is not a medical diagnostic system.</em>
-<br/><br/>
 🔗 <a href="https://github.com/rupali-chauksey/skinova-clinical-intelligence"><strong>View Repository →</strong></a>
 
 ```
-</td>
-```
-
   </tr>
 </table>
 
 <table>
   <tr>
-    <td>
 
 <h3>📄 <a href="https://github.com/rupali-chauksey/intellidocs-ai-enterprise-rag-mcp">IntelliDocs AI — Enterprise RAG + MCP</a></h3>
 <strong>Enterprise Document Intelligence Platform</strong>
-<br/><br/>
 An enterprise-grade RAG system that connects document knowledge to AI agents via the Model Context Protocol (MCP), enabling grounded, permission-aware retrieval over enterprise document corpora.
 <br/><br/>
 <strong>Engineering highlights</strong>
@@ -133,11 +127,7 @@ An enterprise-grade RAG system that connects document knowledge to AI agents via
   <li>🏢 Built for enterprise-scale knowledge retrieval workflows</li>
 </ul>
 <strong>Tech:</strong> <code>Python</code> <code>RAG</code> <code>MCP</code> <code>LangChain</code> <code>Vector DB</code>
-<br/><br/>
 🔗 <a href="https://github.com/rupali-chauksey/intellidocs-ai-enterprise-rag-mcp"><strong>View Repository →</strong></a>
-
-```
-</td>
 ```
 
   </tr>
@@ -164,12 +154,9 @@ An enterprise-grade RAG system that connects document knowledge to AI agents via
 
 <strong>Tech:</strong> <code>Python 3.11+</code> <code>Streamlit</code> <code>Groq</code> <code>ChromaDB</code> <code>scikit-learn</code> <code>Plotly 3D</code> <code>NetworkX</code> <code>SQLite</code> <code>Docker</code>
 
-<br/><br/>
-
 🔗 <a href="https://github.com/rupali-chauksey/indusguard"><strong>View Repository →</strong></a>
 
 ```
-</td>
 ```
 
   </tr>
