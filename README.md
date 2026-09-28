@@ -255,7 +255,19 @@ I'm actively open to:
 
 🤝 Technical consulting for AI/Salesforce projects
 
+Channel
 
+Link
+
+Email
+
+rupalichauksey@gmail.com
+
+LinkedIn
+
+/in/rupalichauksey
+
+Twitter
 
 @rupalichauksey
 
