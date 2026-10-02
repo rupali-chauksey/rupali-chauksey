@@ -4,10 +4,6 @@
   </a>
 </h2>
 
-<div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Rupali Chauksey — Agentic AI Engineer Banner" />
-</div>
-
 <h3 align="center">
   <b>🧠 Salesforce Developer</b> • <b>⚙️ Agentic AI Engineer</b> • <b>🔧 AI Automation Builder</b>
 </h3>
