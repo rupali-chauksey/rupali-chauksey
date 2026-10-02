@@ -2,7 +2,7 @@
 
 🧠 **Salesforce Developer** | ⚙️ **Agentic AI Engineer** | 🔧 **AI Automation Builder**
 
-Building intelligent systems at the intersection of **Salesforce and Agentic AI**: from enterprise CRM automation to autonomous agents, RAG pipelines and multimodal workflows. 3+ years in the Salesforce ecosystem, now going deep on agentic AI. I care about solutions that connect to real business processes, not isolated demos.
+Building intelligent systems at the intersection of **Salesforce and Agentic AI**: from enterprise CRM automation to autonomous agents, RAG pipelines and multimodal workflows. 3+ years in the Salesforce ecosystem, now going deep on agentic AI. I care about solutions that connect to real business processes.
 
 ![Experience](https://img.shields.io/badge/-3%2B_years_Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Focus](https://img.shields.io/badge/-Agentic_AI-8E75B2?style=flat-square)
