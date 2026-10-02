@@ -32,14 +32,6 @@ Building intelligent systems at the intersection of **Salesforce and Agentic AI*
   - Manager approval for orders above $500, every decision logged to `approval_log.txt`
   - `Python` `LangGraph` `Ollama` `SQLite` `Streamlit` `Pandas`
 
-### RAG & Knowledge
-
-- 📄 **[IntelliDocs AI](https://github.com/rupali-chauksey/intellidocs-ai-enterprise-rag-mcp)** - Enterprise document intelligence: RAG over document corpora, connected to AI agents through the Model Context Protocol.
-  - Grounded, citation-aware answers to cut down hallucination
-  - Permission-aware retrieval
-  - MCP for standard agent-to-tool communication
-  - `Python` `RAG` `MCP` `LangChain` `Vector DB`
-
 ### Multimodal AI
 
 - 🩺 **[Skinova Clinical Intelligence](https://github.com/rupali-chauksey/skinova-clinical-intelligence)** - Voice, skin image and video in, confidence-aware voice response out.
@@ -49,6 +41,15 @@ Building intelligent systems at the intersection of **Salesforce and Agentic AI*
   - Speech-to-text and text-to-speech, Dockerized
   - `Python` `Gradio` `Groq` `OpenCV` `Pillow` `Deepgram` `Docker`
   - *Portfolio project, not a medical diagnostic system.*
+
+ 
+### RAG & Knowledge
+
+- 📄 **[IntelliDocs AI](https://github.com/rupali-chauksey/intellidocs-ai-enterprise-rag-mcp)** - Enterprise document intelligence: RAG over document corpora, connected to AI agents through the Model Context Protocol.
+  - Grounded, citation-aware answers to cut down hallucination
+  - Permission-aware retrieval
+  - MCP for standard agent-to-tool communication
+  - `Python` `RAG` `MCP` `LangChain` `Vector DB`
 
 More on [GitHub](https://github.com/rupali-chauksey?tab=repositories).
 
