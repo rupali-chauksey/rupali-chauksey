@@ -79,5 +79,5 @@ More on [GitHub](https://github.com/rupali-chauksey?tab=repositories).
 
 [![LinkedIn](https://img.shields.io/badge/-Rupali_Chauksey-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupalichauksey/)
 [![Twitter](https://img.shields.io/badge/-@rupalichauksey-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rupalichauksey)
-[![Email](https://img.shields.io/badge/-rupalichauksey@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rupalichauksey@gmail.com)
+[![Email](https://img.shields.io/badge/-rupalichauksey@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rupalichauksey.ai@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rupali-chauksey)
