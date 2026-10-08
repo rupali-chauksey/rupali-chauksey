@@ -25,41 +25,6 @@ class RupaliChauksey:
 - ⚙️ **Business Automation:** Connect AI with real workflows and business processes, not isolated demos
 - 🚀 **Practical Implementation:** Focus on deployable, scalable solutions with real-world impact
 
-## 🚀 Building With
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🤖 Agentic AI & Autonomous Workflows</h4>
-      Autonomous agents, tool calling, multi-step workflows, autonomous browsing and task execution
-    </td>
-    <td width="50%">
-      <h4>☁️ Salesforce & Agentforce</h4>
-      Agentforce solutions for hotel booking, check-in/out, food ordering, and customer assistance
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>🧠 LLM, RAG & Multimodal AI</h4>
-      LLM-powered RAG pipelines with PDF + web fallback, multimodal AI using voice/image/video, grounded and confidence-aware responses
-    </td>
-    <td>
-      <h4>🔗 AI Integrations & Automation</h4>
-      APIs, webhooks, tool integration, and workflow orchestration across AI and business systems
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>⚙️ AI Automation & App Engineering</h4>
-      Intelligent workflow automation, backend orchestration, validation, and production-minded AI applications
-    </td>
-    <td>
-      <h4>🧩 Knowledge & CRM Applications</h4>
-      Knowledge assistants, document retrieval, and AI-powered business workflows
-    </td>
-  </tr>
-</table>
-
 ## ⭐ Featured Projects
 
 <table>
@@ -186,17 +151,6 @@ class RupaliChauksey:
 ### ☁️ Cloud, Deployment & Dev Tools
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=Rupali-chauksey&theme=dark&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Rupali-chauksey&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rupali-chauksey&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-</p>
 
 ## 🤝 Let's Connect & Open Opportunities
 
