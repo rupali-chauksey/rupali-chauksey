@@ -46,9 +46,9 @@
 
 ## ⭐ Featured Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="100%">
       <h3>🏭 <a href="https://github.com/rupali-chauksey/indusguard">IndusGuard — Agentic AI for Industrial Intelligence</a></h3>
       <strong>Industrial Intelligence. Guaranteed.</strong>
       <br/>
@@ -72,9 +72,9 @@
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="100%">
       <h3>🛒 <a href="https://github.com/rupali-chauksey/OptiVendor">OptiVendor — Multi-Agent Inventory Procurement</a></h3>
       <strong>An AI system that checks stock, negotiates with vendors, places orders, and asks a human manager for approval when an order is too expensive.</strong>
       <br/><br/>
@@ -92,9 +92,9 @@
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="100%">
       <h3>🩺 <a href="https://github.com/rupali-chauksey/skinova-clinical-intelligence">Skinova Clinical Intelligence</a></h3>
       <strong>Multimodal AI Skin Consultation Assistant</strong>
       <br/><br/>
@@ -116,9 +116,9 @@
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="100%">
       <h3>📄 <a href="https://github.com/rupali-chauksey/intellidocs-ai-enterprise-rag-mcp">IntelliDocs AI — Enterprise RAG + MCP</a></h3>
       <strong>Enterprise Document Intelligence Platform</strong>
       <br/><br/>
