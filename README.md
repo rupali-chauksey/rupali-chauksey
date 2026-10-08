@@ -11,7 +11,7 @@
 <p align="center">
   <strong>I build Generative AI and agentic applications with LangGraph, RAG, MCP and Python, focused on practical, real-world use cases</strong>
   <br/>
-  <em>Multi-agent systems • RAG pipelines • LLM orchestration • Multimodal AI • 3+ years of enterprise engineering background</em>
+  <em>Multi-agent systems • RAG pipelines • LLM orchestration • Multimodal AI </em>
 </p>
 
 <p align="center">
