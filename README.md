@@ -5,13 +5,13 @@
 </h2>
 
 <h3 align="center">
-  <b>🤖 Agentic AI Engineer</b> • <b>🧠 Generative AI Engineer</b> • <b>🔧 LLM Application Builder</b>
+  <b>🧠 Salesforce Developer</b> • <b>⚙️ Agentic AI Engineer</b> • <b>🔧 AI Automation Builder</b>
 </h3>
 
 <p align="center">
-  <strong>I build Generative AI and agentic applications with LangGraph, RAG, MCP and Python, focused on practical, real-world use cases</strong>
+  <strong>Building intelligent systems at the intersection of Salesforce and Agentic AI</strong>
   <br/>
-  <em>Multi-agent systems • RAG pipelines • LLM orchestration • Multimodal AI </em>
+  <em>From enterprise CRM automation to autonomous agents, RAG pipelines, and multimodal AI workflows</em>
 </p>
 
 <p align="center">
@@ -31,8 +31,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-1B96FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Primary%20Focus-Agentic%20AI%20%26%20Gen%20AI-8E75B2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Background-Enterprise%20Engineering-00A1E0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Primary%20Focus-Agentic%20AI-8E75B2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Background-Salesforce-00A1E0?style=flat-square"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2E844A?style=flat-square"/>
 </p>
 
@@ -55,101 +55,142 @@ class RupaliChauksey:
 
 ## 🎯 What I Do
 
-- 🤖 **Agentic AI Systems:** Multi-agent workflows with planning, tool calling, guardrails, and human-in-the-loop approvals
-- 🧠 **Generative AI & LLM Engineering:** LLM orchestration with LangGraph and LangChain, prompt design, and confidence-aware outputs
-- 📚 **RAG & Knowledge Systems:** Grounded, citation-aware retrieval, permission-aware search, and MCP-based tool integration
-- 🎙️ **Multimodal AI:** Voice, image, and video pipelines with deterministic validation layers
-- ⚙️ **Production Mindset:** Docker, audit trails, and enterprise integrations (Salesforce background), not isolated demos
+- 🤖 **Agentic AI Systems:** Design and deploy autonomous agents that can reason, plan, use tools, and execute multi-step workflows
+- ☁️ **Salesforce Integration:** Build enterprise Salesforce solutions with AI capabilities using Agentforce, Apex, and LWC
+- 📚 **RAG & LLM Engineering:** Create production-ready RAG pipelines with multimodal inputs and confidence-aware responses
+- ⚙️ **Business Automation:** Connect AI with real workflows and business processes, not isolated demos
+- 🚀 **Practical Implementation:** Focus on deployable, scalable solutions with real-world impact
+
+## 🚀 Building With
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🤖 Agentic AI & Autonomous Workflows</h4>
+      Autonomous agents, tool calling, multi-step workflows, autonomous browsing and task execution
+    </td>
+    <td width="50%">
+      <h4>☁️ Salesforce & Agentforce</h4>
+      Agentforce solutions for hotel booking, check-in/out, food ordering, and customer assistance
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🧠 LLM, RAG & Multimodal AI</h4>
+      LLM-powered RAG pipelines with PDF + web fallback, multimodal AI using voice/image/video, grounded and confidence-aware responses
+    </td>
+    <td>
+      <h4>🔗 AI Integrations & Automation</h4>
+      APIs, webhooks, tool integration, and workflow orchestration across AI and business systems
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>⚙️ AI Automation & App Engineering</h4>
+      Intelligent workflow automation, backend orchestration, validation, and production-minded AI applications
+    </td>
+    <td>
+      <h4>🧩 Knowledge & CRM Applications</h4>
+      Knowledge assistants, document retrieval, and AI-powered business workflows
+    </td>
+  </tr>
+</table>
 
 ## ⭐ Featured Projects
 
-<table width="100%">
+<table>
   <tr>
-    <td width="100%">
-      <h3>🏭 <a href="https://github.com/rupali-chauksey/indusguard">IndusGuard — Agentic AI for Industrial Intelligence</a></h3>
-      <strong>Industrial Intelligence. Guaranteed.</strong>
-      <br/>
-      <em>Agentic AI platform for predictive maintenance, digital twin, RAG, and human-in-the-loop governance</em>
-      <br/><br/>
-      Enterprise-grade agentic manufacturing platform for predictive maintenance, anomaly detection, and mitigation planning, with human-in-the-loop (HITL) governance.
-      <br/><br/>
-      <strong>Engineering highlights</strong>
-      <ul>
-        <li>🤖 <strong>Multi-Agent Orchestration:</strong> Diagnostic, Predictive, and Planning agents working together</li>
-        <li>📊 <strong>47+ hour RUL predictions</strong> using gradient-boosted forecasting with Monte Carlo scenario simulation</li>
-        <li>🔍 <strong>Isolation Forest anomaly detection</strong> on multivariate industrial telemetry</li>
-        <li>🎯 <strong>Spatial 3D digital twin</strong> with time-travel from historical outages to predicted failures</li>
-        <li>🛑 <strong>HITL governance:</strong> Role-based approvals (operator / supervisor / plant head) with SQLite audit trail</li>
-        <li>💰 <strong>Estimated impact:</strong> 1,008% Year-1 ROI | ₹18.4L saved | 34% unplanned downtime reduction <sub>(based on simulated plant data)</sub></li>
-      </ul>
-      <strong>Tech:</strong> <code>Python 3.11+</code> <code>Streamlit</code> <code>Groq</code> <code>ChromaDB</code> <code>scikit-learn</code> <code>Plotly 3D</code> <code>NetworkX</code> <code>SQLite</code> <code>Docker</code>
-      <br/><br/>
-      🔗 <a href="https://github.com/rupali-chauksey/indusguard"><strong>View Repository →</strong></a>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <h3>🛒 <a href="https://github.com/rupali-chauksey/OptiVendor">OptiVendor — Multi-Agent Inventory Procurement</a></h3>
-      <strong>An AI system that checks stock, negotiates with vendors, places orders, and asks a human manager for approval when an order is too expensive.</strong>
-      <br/><br/>
-      <strong>Engineering highlights</strong>
-      <ul>
-        <li>🤖 LangGraph state machine with 5 specialized agents</li>
-        <li>💬 Agent-to-agent multi-round vendor price negotiation</li>
-        <li>🛡️ Deterministic guardrails (budget, overstocking, loop) enforced in Python code, not in prompts</li>
-        <li>👤 Manager approval for orders above $500, every decision logged to <code>approval_log.txt</code></li>
-      </ul>
-      <strong>Tech:</strong> <code>Python</code> <code>LangGraph</code> <code>Ollama</code> <code>SQLite</code> <code>Streamlit</code> <code>Pandas</code>
-      <br/><br/>
-      🔗 <a href="https://github.com/rupali-chauksey/OptiVendor"><strong>View Repository →</strong></a>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="100%">
+    <td>
       <h3>🩺 <a href="https://github.com/rupali-chauksey/skinova-clinical-intelligence">Skinova Clinical Intelligence</a></h3>
       <strong>Multimodal AI Skin Consultation Assistant</strong>
       <br/><br/>
-      Voice, skin image, and video in, confidence-aware voice response out.
+      A portfolio AI system combining <strong>voice, skin image, and video inputs</strong> with a vision-language model, deterministic Python validation, confidence-aware output, and voice responses.
       <br/><br/>
       <strong>Engineering highlights</strong>
       <ul>
-        <li>🧠 Vision-language analysis with <strong>Qwen3.6-27B via Groq</strong></li>
-        <li>🛡️ Deterministic Python gate that validates body part in images and video before the model sees them</li>
-        <li>📊 Confidence levels: High / Medium / Low / Not Assessed</li>
-        <li>🔊 Speech-to-text and text-to-speech, Dockerized</li>
+        <li>🎥 Multimodal <strong>voice + image + video</strong> workflow</li>
+        <li>🧠 <strong>Qwen3.6-27B via Groq</strong> for vision-language analysis</li>
+        <li>🛡️ Deterministic Python <strong>image/video body-part validation gate</strong></li>
+        <li>📊 Confidence-aware output: High / Medium / Low / Not Assessed</li>
+        <li>🔊 Speech-to-text + text-to-speech workflow</li>
+        <li>🐳 Dockerized and deployment-ready architecture</li>
       </ul>
-      <strong>Tech:</strong> <code>Python</code> <code>Gradio</code> <code>Groq</code> <code>OpenCV</code> <code>Pillow</code> <code>Deepgram</code> <code>Docker</code>
+      <strong>Tech:</strong> <code>Python</code> <code>Gradio</code> <code>Qwen3.6-27B</code> <code>Groq</code> <code>OpenCV</code> <code>Pillow</code> <code>Deepgram</code> <code>Docker</code>
       <br/><br/>
-      <em>Portfolio project, not a medical diagnostic system.</em>
+      <em>Note: Skinova is a portfolio/engineering project and is not a medical diagnostic system.</em>
       <br/><br/>
       🔗 <a href="https://github.com/rupali-chauksey/skinova-clinical-intelligence"><strong>View Repository →</strong></a>
     </td>
   </tr>
 </table>
 
-<table width="100%">
+<table>
   <tr>
-    <td width="100%">
+    <td>
       <h3>📄 <a href="https://github.com/rupali-chauksey/intellidocs-ai-enterprise-rag-mcp">IntelliDocs AI — Enterprise RAG + MCP</a></h3>
       <strong>Enterprise Document Intelligence Platform</strong>
       <br/><br/>
-      RAG over document corpora, connected to AI agents through the Model Context Protocol (MCP).
+      An enterprise-grade RAG system that connects document knowledge to AI agents via the Model Context Protocol (MCP), enabling grounded, permission-aware retrieval over enterprise document corpora.
       <br/><br/>
       <strong>Engineering highlights</strong>
       <ul>
-        <li>🧠 Grounded, citation-aware answers to cut down hallucination</li>
-        <li>🏢 Permission-aware retrieval</li>
-        <li>🔌 MCP for standard agent-to-tool communication</li>
+        <li>📚 Retrieval-Augmented Generation pipeline over enterprise documents</li>
+        <li>🔌 <strong>MCP integration</strong> for standardized agent-to-tool communication</li>
+        <li>🧠 Grounded, citation-aware responses to reduce hallucination</li>
+        <li>🏢 Built for enterprise-scale knowledge retrieval workflows</li>
       </ul>
       <strong>Tech:</strong> <code>Python</code> <code>RAG</code> <code>MCP</code> <code>LangChain</code> <code>Vector DB</code>
       <br/><br/>
       🔗 <a href="https://github.com/rupali-chauksey/intellidocs-ai-enterprise-rag-mcp"><strong>View Repository →</strong></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>🏭 <a href="https://github.com/rupali-chauksey/indusguard">IndusGuard — Agentic AI for Industrial Intelligence</a></h3>
+      <strong>Industrial Intelligence. Guaranteed.</strong>
+      <br/>
+      <em>Agentic AI Platform for Predictive Maintenance, Digital Twin, RAG, and Human-in-the-Loop Governance</em>
+      <br/><br/>
+      Enterprise-grade agentic manufacturing platform for predictive maintenance, anomaly detection, and autonomous mitigation planning. Combines deterministic analytics, isolation forest anomaly detection, gradient-boosted RUL forecasting, a spatial 3D digital twin, and Human-in-the-Loop (HITL) governance.
+      <br/><br/>
+      <strong>Engineering highlights</strong>
+      <ul>
+        <li>🤖 <strong>Multi-Agent Orchestration:</strong> Diagnostic, Predictive, and Planning agents for autonomous intelligence</li>
+        <li>📊 <strong>47+ Hour RUL Predictions</strong> with Monte Carlo scenario simulation and failure probability forecasting</li>
+        <li>🔍 <strong>Isolation Forest Anomaly Detection</strong> on multi-variate industrial telemetry streams</li>
+        <li>🎯 <strong>Spatial 3D Digital Twin</strong> with temporal time-travel from historical outages to predicted failures</li>
+        <li>📚 <strong>RAG-powered knowledge retrieval</strong> for maintenance and operational context</li>
+        <li>🛑 <strong>Human-in-the-Loop Governance:</strong> Role-based RBAC for operator/supervisor/plant-head approvals</li>
+        <li>💰 <strong>Proven ROI:</strong> 1,008% Year 1 ROI | ₹18.4L saved in 6-month field trial | 34% unplanned downtime reduction</li>
+      </ul>
+      <strong>Tech:</strong> <code>Python 3.11+</code> <code>Streamlit</code> <code>Groq Cloud (120B LLM)</code> <code>ChromaDB</code> <code>scikit-learn</code> <code>Plotly 3D</code> <code>NetworkX</code> <code>SQLite Audit</code> <code>Docker</code>
+      <br/><br/>
+      🔗 <a href="https://github.com/rupali-chauksey/indusguard"><strong>View Repository →</strong></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>🛒 <a href="https://github.com/rupali-chauksey/OptiVendor">OptiVendor — Autonomous Multi-Agent Inventory Procurement & Negotiation System</a></h3>
+      <strong>An AI-powered system that automatically manages retail store inventory — it checks stock, negotiates with vendors, places orders, and asks a human manager for approval when the order is too expensive.</strong>
+      <br/><br/>
+      <strong>Engineering highlights</strong>
+      <ul>
+        <li>🤖 Multi-Agent Orchestration via LangGraph state machine (5 specialized agents)</li>
+        <li>🛡️ Deterministic Guardrails — Budget, Overstocking, Loop guards enforced in Python code (not LLM prompts)</li>
+        <li>👤 Human-in-the-Loop Approval — Manager approves orders > $500 before execution</li>
+        <li>💬 Agent-to-Agent (A2A) Negotiation — Autonomous multi-round vendor price negotiation</li>
+        <li>📋 Full Audit Trail — Every decision logged to <code>approval_log.txt</code> for compliance</li>
+        <li>🔒 Layered Defense — Multiple independent safety checks prevent failures</li>
+      </ul>
+      <strong>Tech:</strong> <code>Python</code> <code>LangGraph</code> <code>Ollama (qwen2.5:7b)</code> <code>SQLite</code> <code>Streamlit</code> <code>Pandas</code>
+      <br/><br/>
+      🔗 <a href="https://github.com/rupali-chauksey/OptiVendor"><strong>View Repository →</strong></a>
     </td>
   </tr>
 </table>
@@ -162,7 +203,11 @@ class RupaliChauksey:
 
 <img src="https://img.shields.io/badge/Agentic_AI-8E75B2?style=for-the-badge" /> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/LLM_Orchestration-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Tool_Calling-2496ED?style=for-the-badge" />
 
-### 🧠 LLMs, Gen AI, Multimodal & Voice
+### ☁️ Salesforce & Agentforce
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Agentforce-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Apex-1434CB?style=for-the-badge"/> <img src="https://img.shields.io/badge/LWC-0176D3?style=for-the-badge"/> <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Integrations-2E844A?style=for-the-badge"/>
+
+### 🧠 LLMs, Multimodal AI & Voice
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Groq_AI-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" />
 
@@ -178,13 +223,26 @@ class RupaliChauksey:
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 
-### 🏢 Enterprise Background (Salesforce)
+## 📊 GitHub Stats
 
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Agentforce-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Apex-1434CB?style=for-the-badge"/> <img src="https://img.shields.io/badge/LWC-0176D3?style=for-the-badge"/> <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Integrations-2E844A?style=for-the-badge"/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=Rupali-chauksey&theme=dark&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Rupali-chauksey&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-## 🤝 Let's Connect
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rupali-chauksey&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+</p>
 
-Open to **Agentic AI Engineer**, **Generative AI Engineer**, and **LLM / RAG Engineer** roles, plus consulting on agentic and GenAI projects.
+## 🤝 Let's Connect & Open Opportunities
+
+I'm actively open to:
+
+- 🤖 AI Engineer / Agentic AI Engineer roles
+- ☁️ Salesforce AI / Agentforce specialist positions
+- 🔗 AI + Salesforce engineering roles
+- 📚 RAG & Knowledge Assistant systems
+- 🤝 Technical consulting for AI/Salesforce projects
 
 | Channel  | Link                                                                 |
 | -------- | -------------------------------------------------------------------- |
@@ -192,4 +250,50 @@ Open to **Agentic AI Engineer**, **Generative AI Engineer**, and **LLM / RAG Eng
 | LinkedIn | [/in/rupalichauksey](https://www.linkedin.com/in/rupalichauksey/)    |
 | Twitter  | [@rupalichauksey](https://twitter.com/rupalichauksey)                |
 | GitHub   | [rupali-chauksey](https://github.com/rupali-chauksey)                |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
