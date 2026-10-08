@@ -1,40 +1,4 @@
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=343434&center=true&vcenter=true&width=950&lines=Hi+%F0%9F%91%8B%2C+I%27m+Rupali+Chauksey" alt="Hi, I'm Rupali Chauksey" />
-  </a>
-</h2>
-
-<h3 align="center">
-  <b>🧠 Salesforce Developer</b> • <b>⚙️ Agentic AI Engineer</b> • <b>🔧 AI Automation Builder</b>
-</h3>
-
-<p align="center">
-  <strong>Building intelligent systems at the intersection of Salesforce and Agentic AI</strong>
-  <br/>
-  <em>From enterprise CRM automation to autonomous agents, RAG pipelines, and multimodal AI workflows</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rupalichauksey/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/rupali-chauksey">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:rupalichauksey@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/rupalichauksey" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-1B96FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Primary%20Focus-Agentic%20AI-8E75B2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Background-Salesforce-00A1E0?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2E844A?style=flat-square"/>
-</p>
+<h2 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=343434&center=true&vcenter=true&width=950&lines=Hi+%F0%9F%91%8B%2C+I%27m+Rupali+Chauksey" alt="Hi, I'm Rupali Chauksey" /> </a> </h2> <h3 align="center"> <b>🤖 Agentic AI</b> • <b>🧠 Generative AI</b> • <b>🔧 LLM Applications</b> • <b>🎙️ Multimodal AI Orchestration</b> </h3> <p align="center"> <strong>I build Generative AI and agentic applications with LangGraph, RAG, MCP and Python</strong> <br/> <em>Multi-agent systems • RAG pipelines • LLM orchestration • Multimodal AI</em> </p> <p align="center"> <a href="https://www.linkedin.com/in/rupalichauksey/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/rupali-chauksey"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:rupalichauksey@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://twitter.com/rupalichauksey" target="_blank"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/Experience-3%2B%20Years-1B96FF?style=flat-square"/> <img src="https://img.shields.io/badge/Primary%20Focus-Agentic%20AI%20%26%20Gen%20AI-8E75B2?style=flat-square"/> <img src="https://img.shields.io/badge/Background-Salesforce-00A1E0?style=flat-square"/> <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2E844A?style=flat-square"/> </p>
 
 ## 🧠 About Me
 
