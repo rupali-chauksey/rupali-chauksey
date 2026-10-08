@@ -36,6 +36,23 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2E844A?style=flat-square"/>
 </p>
 
+## 🧠 About Me
+
+```python
+class RupaliChauksey:
+    role = "Salesforce Developer & Agentic AI Engineer"
+    experience = "3+ Years in Salesforce Ecosystem"
+    focus = [
+        "Agentic AI Systems",
+        "LLM Orchestration & RAG",
+        "Salesforce & Agentforce",
+        "Multimodal AI Workflows",
+        "Business Process Automation"
+    ]
+
+    currently_building = "AI agents + intelligent business workflows"
+```
+
 ## 🎯 What I Do
 
 - 🤖 **Agentic AI Systems:** Multi-agent workflows with planning, tool calling, guardrails, and human-in-the-loop approvals
